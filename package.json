@@ -1,0 +1,14 @@
+{
+  "name": "rutsdb",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.mjs",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "crypto-random": "^2.0.1",
+    "mysql": "^2.18.1"
+  }
+}
